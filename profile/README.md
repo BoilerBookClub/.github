@@ -4,9 +4,8 @@ The [Boiler Book Club](https://www.boilerbookclub.com) is Purdue's largest colle
 
 Currently, development is maintained by the club's Communication Officer, Kai Tinkess, and Treasurer, Matt Headley. If you would like to contribute or have an idea for a project, please contact one of them or the President.
 
-Also note that the website was built using Squarespace and we are not interested in migrating it presently. Supporting the website is one of the responsibilites of the Communication Committee.
+Also, please note that the website was built using Squarespace and we are not interested in migrating it presently. Supporting the website is one of the responsibilites of the Communication Committee.
 
-----
 
 ## Club Projects
 We are always open to suggestions! Please feel free to join any of these.
@@ -23,8 +22,6 @@ A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilita
 - Difficulty: Beginner
 - Status: Complete
 
----
-
-## All Contributor 
+## All Contributors
 - Matt Headley
 - Kai Tinkess
