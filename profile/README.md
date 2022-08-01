@@ -19,12 +19,12 @@ A website built with React that gives users access to our club library. If you w
 - Status: In Development
 
 ### [**club-library**](https://github.com/BoilerBookClub/club-library)
-A backend Rust service to interact with our club library and centralize requests to it. Uses Axum and sheets4. Currently, the website boiler-library is the only project that relies on this, but we hope to create a mobile app as well.
+A backend Rust service to interact with our club library and centralize requests to it. Uses Axum and sheets4. Currently, there are no projects that rely on this and it can be considered deprecated.
 - Lead: Kai Tinkess
 - Language(s): Rust
 - Complexity: Intermediate
 - Scope: Small
-- Status: Functional
+- Status: Deprecated
 
 ### [**BookBingo**](https://github.com/BoilerBookClub/BookBingo)
 A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilitate our Summer 2022's event, Bingo. It maintained a database of cards and allowed for interactions from our members. Was successfully deployed on our club bot Dawes and ran for the duration of the summer.
