@@ -37,3 +37,4 @@ A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilita
 ## All Contributors
 - Matt Headley
 - Kai Tinkess
+- Jack Moffat
