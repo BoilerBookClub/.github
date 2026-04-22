@@ -19,7 +19,7 @@ Event Pass is a real-time event number-calling app for large events where attend
 - Status: Complete
 
 ### [**library**](https://github.com/BoilerBookClub/library)
-An updated website built with React that gives users access to our club library. It features checkout and return abilities using an in-app barcode scanner. If you would like to contribute, this is a good place to start. React is intuitive and you will be able to see results immediately.
+An updated website built with React that gives users access to our club library. It features checkout and return abilities using an in-app barcode scanner. If you would like to contribute, this is a good place to start. React is intuitive and you will be able to see results immediately. Hosted at https://boilerlibrary.com
 - Lead: Gavin Bowden
 - Language(s): JavaScript (JSX)
 - Complexity: Beginner
