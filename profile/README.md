@@ -16,7 +16,6 @@ Event Pass is a real-time event number-calling app for large events where attend
 - Language(s): JavaScript (JSX)
 - Complexity: Advanced
 - Scope: Large
-- Status: Complete
 
 ### [**library**](https://github.com/BoilerBookClub/library)
 An updated website built with React that gives users access to our club library. It features checkout and return abilities using an in-app barcode scanner. If you would like to contribute, this is a good place to start. React is intuitive and you will be able to see results immediately. Hosted at https://boilerlibrary.com
@@ -24,15 +23,13 @@ An updated website built with React that gives users access to our club library.
 - Language(s): JavaScript (JSX)
 - Complexity: Beginner
 - Scope: Medium
-- Status: Complete
 
 ### [**BookBingo2**](https://github.com/BoilerBookClub/BookBingo2)
 A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilitate our Summer 2024's event, Bingo. It maintained a database of cards and allowed for interactions from our members. Was successfully deployed on a new club bot and ran for the duration of the summer.
-- Lead: Matt Headley, Gavin Bowden
-- Language(s): Python
+- Lead: Gavin Bowden, Matt Headley
+- Language(s): JavaScript (JSX)
 - Complexity: Beginner
 - Scope: Small
-- Status: Complete
 
 ## Deprecated Projects
 
@@ -42,7 +39,6 @@ A website built with React that gives users access to our club library.
 - Language(s): Rust
 - Complexity: Intermediate
 - Scope: Small
-- Status: Deprecated
 
 ### [**club-library**](https://github.com/BoilerBookClub/club-library)
 A backend Rust service to interact with our club library and centralize requests to it. Uses Axum and sheets4. Currently, there are no projects that rely on this and it can be considered deprecated.
@@ -50,7 +46,6 @@ A backend Rust service to interact with our club library and centralize requests
 - Language(s): Rust
 - Complexity: Intermediate
 - Scope: Small
-- Status: Deprecated
 
 ### [**BookBingo**](https://github.com/BoilerBookClub/BookBingo)
 A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilitate our Summer 2022's event, Bingo. It maintained a database of cards and allowed for interactions from our members. Was successfully deployed on our club bot Dawes and ran for the duration of the summer.
@@ -58,7 +53,6 @@ A [Red](https://docs.discord.red/en/stable/) discord bot cog written to facilita
 - Language(s): Python
 - Complexity: Beginner
 - Scope: Small
-- Status: Complete
 
 ## All Contributors
 - Matt Headley
